@@ -1,7 +1,5 @@
-(This is an example. Please edit accordingly.)
-
-Name: A. Student
-I spent 8 hours on this problem (1 on Prob. 1 and 3 on Prob. 2)
-I sought help from Prof. Huckleberry.
-We talked about the definition of Euclidean distance.
-
+Name: Yunke Zhu
+I spent 4 hours on this problem (2 on Prob. 1 and 2 on Prob. 2)
+I sought help from Google, Stack Overflow
+I mainly spent time on the environment and priority queue in python. Some numpy library stuff took me some time as well.
+I failed to use priority heap since it won't help me deal with equal situation..unless I define it with myself.
