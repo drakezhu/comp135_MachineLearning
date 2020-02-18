@@ -1,7 +1,7 @@
 (This is an example. Please edit accordingly.)
 
-Name: A. Student
-I spent 8 hours on this problem (1 on Prob. 1 and 3 on Prob. 2)
-I sought help from Prof. Huckleberry.
-We talked about the definition of Euclidean distance.
-
+Name: Yunke Zhu
+I spent 8 hours on this problem (1 on Prob. 1 and 3 on Prob. 2 and 1 on Prob. 3 and 3 on Prob. 4)
+I asked help from TA Rita, Chen. 
+The most difficult part for me is the discussion about the graph, mainly on problem 3 and 4. And they are most Tim consuming part as well. 
+I also seated a lot data online from stack overflow and wikipedia and some blogs. 
