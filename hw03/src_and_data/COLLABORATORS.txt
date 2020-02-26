@@ -1,0 +1,5 @@
+Name: Yunke Zhu
+I spent 20 hours on this assignment (12 hours on Prob. 1 and 8 hours on Prob. 2
+I asked help from classmates discussing on the definition of counting-based heuristic. 
+The most difficult part for me is the discussion about the results, it is very hard for me to illustrate them clearly. And I'm still not sure if I conveyed my point clearly. I'm poor at wring conclusions, so I might need some extra practice. 
+I also searched a lot resources online from stack overflow and wikipedia and some blogs. 
