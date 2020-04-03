@@ -87,6 +87,7 @@ class MLPClassifierLBFGS(MLPClassifier):
             nesterovs_momentum=True, early_stopping=False,
             validation_fraction=0.1, beta_1=0.9, beta_2=0.999,
             epsilon=1e-8,
+	    max_fun=15000,
             **version_specific_kws)
 
     def fit(self, x, y):
