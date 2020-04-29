@@ -1,0 +1,6 @@
+Name: Yunke Zhu
+I spent 24 hours on this problem (18 hours on Part1 and 6 hours on Part2)
+I sought help from Google, Stack Overflow
+The library I used is sklearn.
+And I searched some new data set from kraggle to test how my model works with more training dataset.
+I also asked my friends' help and their suggestions.
